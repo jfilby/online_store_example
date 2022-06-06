@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+
+shortName: Online Store Example Web App
+description: Web application.
+basePath: $ONLINE_STORE_EXAMPLE_BASE_PATH
+srcPath: $ONLINE_STORE_EXAMPLE_BASE_SRC_PATH/web_app
+mediaList: []
+
